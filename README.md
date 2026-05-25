@@ -1,8 +1,8 @@
-# Proyecto BI sobre tiendas de abarrotes en la Ciudad de México | Data Analyze
+# Proyecto BI sobre tiendas de abarrotes en la Ciudad de México | Analisis de datos
 Análisis de datos para negocio inteligente para una tiendas de abarrotes. 
 
 
-# 🚔  | Data Analyze
+# 🚔  | Analisis de datos 
 
 ## 📌 Objetivo del proyecto
 Analizar datos de ventas en tiendas de abarrotes utilizando Power BI, obtener el promedio neto y bruto para la categoria de limpieza de las cuatro marcas según los datos, compararlas con otras categorias para identificar cual domina y proponer estrategias de atracción, visibilidad y/o impulso. Así mismo familiarizarse con el proceso ETL para poder extraer, validar, limpiar y transformar los datos con ayuda de Python y cargarlos a Power BI a traves de archivos CSV, por último reportar estos resultado a traves de un dashboard. 
