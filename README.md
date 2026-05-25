@@ -24,7 +24,7 @@ Analizar datos de ventas en tiendas de abarrotes utilizando Power BI, obtener el
 ## 🧱 Arquitectura del proyecto
 
 <p align="center">
-  <img src="pilares_nopalera_arquitectura.jpg" width="900"/>
+  <img src="grosery.png" width="900"/>
 </p>
 
 ---
