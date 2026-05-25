@@ -2,7 +2,7 @@
 Análisis de datos para negocio inteligente para una tiendas de abarrotes. 
 
 
-# 🚔  | Analisis de datos 
+# Analisis de datos 
 
 ## 📌 Objetivo del proyecto
 
